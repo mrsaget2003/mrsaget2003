@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://raw.githubusercontent.com/mrsaget2003/mrsaget2003/main/File/PFP.jpg" alt="PFP" width="50%" style="border-radius: 50px"/><br/>
+<img src="https://raw.githubusercontent.com/mrsaget2003/mrsaget2003/main/File/PFP.jpg" alt="PFP" width="30%" style="border-radius: 50px"/><br/>
 
 -Marc-karlin Saget- <br>
 Computer Science Student - Cybersecurity Enthousiast <br>
