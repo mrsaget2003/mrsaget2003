@@ -5,7 +5,7 @@
 -Marc-karlin Saget- <br>
 Computer Science Student - Cybersecurity Enthousiast <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mrsaget2003&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=mrsaget2003&color=f5f4f2&style=for-the-badge&label=PROFILE%20VIEWS)
 
 
 *"The only way to do great work is to love what you do."* — Steve Jobs.<br>
